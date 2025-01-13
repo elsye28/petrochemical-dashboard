@@ -19,3 +19,6 @@ Thumbs.db
 
 # Abaikan file konfigurasi lokal
 .env
+
+# Allow combined_data.xlsx to be tracked
+!output/combined_data.xlsx
