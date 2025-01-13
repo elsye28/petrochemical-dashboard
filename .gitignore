@@ -1,0 +1,21 @@
+# Abaikan virtual environment
+.venv/
+
+# Abaikan file Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Abaikan file dan folder sistem
+.DS_Store
+Thumbs.db
+
+# Abaikan file log
+*.log
+
+# Abaikan file dataset besar (jika perlu)
+*.xlsx
+*.csv
+
+# Abaikan file konfigurasi lokal
+.env
